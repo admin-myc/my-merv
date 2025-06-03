@@ -52,19 +52,3 @@
 
 ---
 
-## 🛠️ 快速开始
-
-按照以下步骤快速启动项目：
-
-```bash
-# 克隆项目代码
-git clone https://github.com/admin-myc/my-portfolio.git
-
-# 进入项目目录
-cd my-portfolio
-
-# 安装依赖
-npm install
-
-# 启动项目
-npm start
