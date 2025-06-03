@@ -50,5 +50,16 @@
   <img src="https://github.com/admin-myc/my-portfolio/assets/demo-detail.gif" alt="详情页预览" width="80%"/>
 </p>
 
----
+---﹉
+
+
+📭
+如果您有任何问题或建议,请通过
+GitHub Issues提交,或者发送邮件
+到
+admin-myc@example.com
+鸣谢
+感谢所有为my-portfolio项目贡
+献代码、提出建议、提供反馈的开发
+者和用户!
 
