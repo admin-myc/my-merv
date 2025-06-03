@@ -50,16 +50,24 @@
   <img src="https://github.com/admin-myc/my-portfolio/assets/demo-detail.gif" alt="详情页预览" width="80%"/>
 </p>
 
----﹉
+# 欢迎来到我的 GitHub 仓库！
 
+我是 **admin-myc**，一名热衷于开发和技术创新的开发者。这个仓库 **"my-portfolio"** 是我的个人作品集，展示了我的技能、项目经验和技术栈。
 
-📭
-如果您有任何问题或建议,请通过
-GitHub Issues提交,或者发送邮件
-到
-admin-myc@example.com
+## 关于本仓库
+- **仓库名称**: my-portfolio
+- **用途**: 用于展示我的个人简历、项目经验和技术能力。
+- **技术栈**: 可能包括 HTML、CSS、JavaScript 或其他您使用的技术。
+- **亮点**: 这是一个动态、响应式、可持续更新的作品集。
+
+## 联系方式
+- GitHub: [admin-myc](https://github.com/admin-myc)
+-    邮箱: dumaocn@gmail.com
+- 个人网站: www.mycwe.com.hk
+
+## 感谢您的访问！✨
 鸣谢
 感谢所有为my-portfolio项目贡
 献代码、提出建议、提供反馈的开发
 者和用户!
-
+©️2025admin-myc保留所有权利
