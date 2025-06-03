@@ -1,3 +1,28 @@
-"scripts": {
-       "start": "react-scripts start"
-     }
+{
+  "name": "my-portfolio", // 替换为您的项目名称
+  "version": "1.0.0", // 项目的版本号
+  "description": "这是我的个人作品集项目", // 项目描述
+  "main": "index.js", // 项目的入口文件
+  "scripts": {
+    "start": "node index.js", // 启动项目的命令
+    "build": "webpack --config webpack.config.js", // 构建项目的命令（如果使用 Webpack）
+    "test": "jest" // 运行测试的命令（如果使用 Jest）
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/admin-myc/my-portfolio.git" // 替换为您的仓库 URL
+  },
+  "keywords": [
+    "portfolio",
+    "个人作品集",
+    "admin-myc" // 添加与项目相关的关键词
+  ],
+  "author": "admin-myc", // 替换为您的名字或 GitHub 用户名
+  "license": "MIT", // 项目使用的开源协议
+  "dependencies": {
+    "express": "^4.18.2" // 示例依赖项（替换为您项目的实际依赖项）
+  },
+  "devDependencies": {
+    "jest": "^29.5.0" // 示例开发依赖项（替换为您项目的实际开发依赖项）
+  }
+}
